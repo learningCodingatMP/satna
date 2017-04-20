@@ -3,6 +3,7 @@ h1
   color:pink;
   font-family:cursive;
 }
-.red-text {
+.red-text
+{color:blue;
   font-family:fantasy;
 }
