@@ -1,9 +1,14 @@
 h1
+body
 {
-  color:pink;
+  background-color:navy
+}
+{
+  color:pink
   font-family:cursive;
 }
 .red-text
-{color:blue;
+{
+  color:blue;
   font-family:fantasy;
 }
