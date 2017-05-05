@@ -1,5 +1,7 @@
 # Satna
 
-It is a project we are building while learning how to code.
-This is website about our city Satna, MP.
-Satna is famous for Cement Factories.
+I am Aishwarya Gautam.
+i live in Satna, MP.
+It is a project I am building while learning how to code.
+This website is about my city.
+Satna is a small city in Madhya Pradesh INDIA.
