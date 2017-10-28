@@ -1,13 +1,13 @@
 body
 {
-  background-color:black;
+  background-color:white;
 }
 h1
 {
   color:turquoise;
   font-family:cursive;
 }
-p
+.red-text
 {
   color:turquoise;
   font-family:cursive;
