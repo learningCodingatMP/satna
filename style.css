@@ -1,14 +1,14 @@
 body
 {
-  background-color:silver;
+  background-color:black;
 }
 h1
 {
-  color:pink;
+  color:turquoise;
   font-family:cursive;
 }
 .red-text
 {
   color:blue;
-  font-family:fantasy;
+  font-family:cursive;
 }
